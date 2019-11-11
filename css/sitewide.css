@@ -284,19 +284,19 @@ grid-row:  3 / 4;
 	line-height: 2em;
 	font-size: 35px;
 	grid-column: 1 / 2;
-	grid-row: 12 / 13;
+	grid-row: 13 / 14;
 }
 
 .berthe-img-1 {
 	padding: 2em;
 	grid-column: 2 / 3;
-	grid-row: 12 / 14;
+	grid-row: 13 / 15;
 }
 
 .berthe-img-2 {
 	padding: 2em;
 	grid-column: 1 / 2;
-	grid-row: 13 / 14;
+	grid-row: 14 / 15;
 }
 
 .pierre {
@@ -304,19 +304,19 @@ grid-row:  3 / 4;
 	line-height: 2em;
 	font-size: 35px;
 	grid-column: 2 / 3;
-	grid-row: 14 / 15;
+	grid-row: 15 / 16;
 }
 
 .pierre-img-1 {
 	padding: 2em;
 	grid-column: 1 / 2;
-	grid-row: 14 / 16;
+	grid-row: 15 / 17;
 }
 
 .pierre-img-2 {
 	padding: 2em;
 	grid-column: 2 / 3;
-	grid-row: 15 / 16;
+	grid-row: 16 / 17;
 }
 
 .cassat {
@@ -324,19 +324,19 @@ grid-row:  3 / 4;
 	line-height: 2em;
 	font-size: 35px;
 	grid-column: 1 / 2;
-	grid-row: 16 / 17;
+	grid-row: 17 / 18;
 }
 
 .cassat-img-1 {
 	padding: 2em;
 	grid-column: 2 / 3;
-	grid-row: 16 / 18;
+	grid-row: 17 / 19;
 }
 
 .cassat-img-2 {
 	padding: 2em;
 	grid-column: 1 / 2;
-	grid-row: 17 / 18;
+	grid-row: 18 / 19;
 }
 
 .gustave {
@@ -344,19 +344,19 @@ grid-row:  3 / 4;
 	line-height: 2em;
 	font-size: 35px;
 	grid-column: 2 / 3;
-	grid-row: 18 / 19;
+	grid-row: 19 / 20;
 }
 
 .gustave-img-1 {
 	padding: 2em;
 	grid-column: 1 / 2;
-	grid-row: 18 / 20;
+	grid-row: 19 / 21;
 }
 
 .gustave-img-2 {
 	padding: 2em;
 	grid-column: 2 / 3;
-	grid-row: 19 / 20;
+	grid-row: 20 / 21;
 }
 
 /* ------------------------------------------------------------ */
