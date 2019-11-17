@@ -160,8 +160,6 @@ h2 {
 	grid-template-columns: 1fr 1fr;
 	padding: 2em;
 	font-family: 'Raleway';
-	background-color: white;
-
 }
 
 .pissarro {
@@ -171,7 +169,6 @@ h2 {
 	color: #22354B;
 	grid-column: 1 / 2;
 	grid-row:  1 / 2;
-	background-color: rgba(224, 212, 185, 0.8);
 }
 
 .info-pissarro {
