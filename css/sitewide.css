@@ -209,7 +209,7 @@ h2 {
 padding: 2em;
 line-height: 2em;
 font-size: 35px;
-color: rgba(59, 36, 15);
+color: #22354B;
 grid-column: 2 / 3;
 grid-row:  3 / 4;
 background-color: rgba(224, 212, 185, 0.8);
@@ -315,8 +315,10 @@ margin-right: 35px;
 .cezanne-img-1 {
 	grid-column: 1 / 2;
 	grid-row: 7 / 8;
-	padding: 2em;
-	margin-left: 35px;
+	padding-top: 12em;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-bottom: 2em;	margin-left: 35px;
 	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 }
@@ -357,7 +359,10 @@ margin-right: 35px;
 }
 
 .monet-img-1 {
-	padding: 2em;
+	padding-top: 8em;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-bottom: 2em;
 	grid-column: 2 / 3;
 	grid-row: 9 / 10;
 	margin-top: 35px;
@@ -401,7 +406,10 @@ margin-right: 35px;
 }
 
 .armand-img-1 {
-	padding: 2em;
+	padding-top: 10em;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-bottom: 2em;
 	grid-column: 1 / 2;
 	grid-row: 11 / 12;
 	margin-left: 35px;
@@ -448,7 +456,10 @@ margin-right: 35px;
 }
 
 .berthe-img-1 {
-	padding: 2em;
+	padding-top: 12em;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-bottom: 2em;
 	grid-column: 2 / 3;
 	grid-row: 13 / 14;
 	margin-right: 35px;
