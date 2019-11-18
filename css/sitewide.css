@@ -436,6 +436,8 @@ margin-right: 35px;
 	font-size: 35px;
 	grid-column: 1 / 2;
 	grid-row: 13 / 14;
+	margin-left: 35px;
+	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
@@ -444,6 +446,8 @@ margin-right: 35px;
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 13 / 15;
+	margin-right: 35px;
+	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
@@ -452,6 +456,8 @@ margin-right: 35px;
 	padding: 2em;
 	grid-column: 1 / 2;
 	grid-row: 14 / 15;
+	margin-left: 35px;
+	margin-bottom: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
