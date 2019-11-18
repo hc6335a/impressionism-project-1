@@ -598,8 +598,10 @@ margin-right: 35px;
 }
 
 .gustave-img-1 {
-	padding: 2em;
-	grid-column: 1 / 2;
+	padding-top: 12em;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-bottom: 2em;	grid-column: 1 / 2;
 	grid-row: 19 / 20;
 	margin-left: 35px;
 	margin-top: 35px;
