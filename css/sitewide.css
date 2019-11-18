@@ -310,7 +310,6 @@ margin-right: 35px;
 	line-height: normal;
 	margin-right: 35px;
 	margin-top: 35px;
-	background-color: rgba(224, 212, 185, 0.8);
 }
 
 .cezanne-img-1 {
@@ -391,7 +390,8 @@ margin-right: 35px;
 	grid-column: 2 / 3;
 	grid-row: 11 / 12;
 	background-color: rgba(224, 212, 185, 0.8);
-	margin: 1em;
+	margin-right: 35px;
+	margin-top: 35px;
 	color: #22354B;
 }
 
@@ -403,13 +403,31 @@ margin-right: 35px;
 .armand-img-1 {
 	padding: 2em;
 	grid-column: 1 / 2;
-	grid-row: 11 / 13;
+	grid-row: 11 / 12;
+	margin-left: 35px;
+	margin-top: 35px;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .armand-img-2 {
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 12 / 13;
+	margin-right: 35px;
+	margin-bottom: 35px;
+	background-color: rgba(224, 212, 185, 0.8);
+
+}
+
+.armand-img-3 {
+	padding: 2em;
+	grid-column: 1 / 2;
+	grid-row: 12 / 13;
+	margin-left: 35px;
+	margin-bottom: 35px;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .berthe {
@@ -418,18 +436,24 @@ margin-right: 35px;
 	font-size: 35px;
 	grid-column: 1 / 2;
 	grid-row: 13 / 14;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .berthe-img-1 {
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 13 / 15;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .berthe-img-2 {
 	padding: 2em;
 	grid-column: 1 / 2;
 	grid-row: 14 / 15;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .pierre {
@@ -438,18 +462,24 @@ margin-right: 35px;
 	font-size: 35px;
 	grid-column: 2 / 3;
 	grid-row: 15 / 16;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .pierre-img-1 {
 	padding: 2em;
 	grid-column: 1 / 2;
 	grid-row: 15 / 17;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .pierre-img-2 {
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 16 / 17;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .cassat {
@@ -458,18 +488,24 @@ margin-right: 35px;
 	font-size: 35px;
 	grid-column: 1 / 2;
 	grid-row: 17 / 18;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .cassat-img-1 {
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 17 / 19;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .cassat-img-2 {
 	padding: 2em;
 	grid-column: 1 / 2;
 	grid-row: 18 / 19;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .gustave {
@@ -478,18 +514,24 @@ margin-right: 35px;
 	font-size: 35px;
 	grid-column: 2 / 3;
 	grid-row: 19 / 20;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .gustave-img-1 {
 	padding: 2em;
 	grid-column: 1 / 2;
 	grid-row: 19 / 21;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 .gustave-img-2 {
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 20 / 21;
+	background-color: rgba(224, 212, 185, 0.8);
+
 }
 
 /* ------------------------------------------------------------ */
