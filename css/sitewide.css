@@ -442,10 +442,15 @@ margin-right: 35px;
 
 }
 
+.berthe-info {
+	font-size: 16px;
+	line-height: normal;
+}
+
 .berthe-img-1 {
 	padding: 2em;
 	grid-column: 2 / 3;
-	grid-row: 13 / 15;
+	grid-row: 13 / 14;
 	margin-right: 35px;
 	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
@@ -462,20 +467,38 @@ margin-right: 35px;
 
 }
 
+.berthe-img-3 {
+	padding: 2em;
+	grid-column: 2 / 3;
+	grid-row: 14 / 15;
+	margin-right: 35px;
+	margin-bottom: 35px;
+	background-color: rgba(224, 212, 185, 0.8);
+}
+
 .pierre {
 	padding: 2em;
 	line-height: 2em;
 	font-size: 35px;
 	grid-column: 2 / 3;
 	grid-row: 15 / 16;
+	margin-right: 35px;
+	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
+}
+
+.pierre-info {
+	font-size: 16px;
+	line-height: normal;
 }
 
 .pierre-img-1 {
 	padding: 2em;
 	grid-column: 1 / 2;
-	grid-row: 15 / 17;
+	grid-row: 15 / 16;
+	margin-left: 35px;
+	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
@@ -484,24 +507,44 @@ margin-right: 35px;
 	padding: 2em;
 	grid-column: 2 / 3;
 	grid-row: 16 / 17;
+	margin-right: 35px;
+	margin-bottom: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
 
+.pierre-img-3 {
+	padding: 2em;
+	grid-column: 1 / 2;
+	grid-row: 16 / 17;
+	margin-left: 35px;
+	margin-bottom: 35px;
+	background-color: rgba(224, 212, 185, 0.8);
+
+}
 .cassat {
 	padding: 2em;
 	line-height: 2em;
 	font-size: 35px;
 	grid-column: 1 / 2;
 	grid-row: 17 / 18;
+	margin-left: 35px;
+	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
+}
+
+.cassat-info {
+	font-size: 16px;
+	line-height: normal;
 }
 
 .cassat-img-1 {
 	padding: 2em;
 	grid-column: 2 / 3;
-	grid-row: 17 / 19;
+	grid-row: 17 / 18;
+	margin-right: 35px;
+	margin-top: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
@@ -510,6 +553,18 @@ margin-right: 35px;
 	padding: 2em;
 	grid-column: 1 / 2;
 	grid-row: 18 / 19;
+	margin-left: 35px;
+	margin-bottom: 35px;
+	background-color: rgba(224, 212, 185, 0.8);
+
+}
+
+.cassat-img-3 {
+	padding: 2em;
+	grid-column: 2 / 3;
+	grid-row: 18 / 19;
+	margin-right: 35px;
+	margin-bottom: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 
 }
