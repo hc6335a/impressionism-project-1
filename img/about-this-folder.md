@@ -65,3 +65,22 @@ https://en.wikipedia.org/wiki/Mary_Cassatt
 "Monet Painting In His Garden At Argenteuil"
 Pierre Auguste Renoir
 https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+
+"Hay Harvest at Éragny", Camille Pissaro
+https://en.wikipedia.org/wiki/Camille_Pissarro
+
+"Reading", Berthe Morisot
+https://en.wikipedia.org/wiki/Berthe_Morisot
+
+"Jardin à Sainte-Adresse", Claude Monet
+https://en.wikipedia.org/wiki/Claude_Monet
+
+Influence background img:
+Camille Pissarro, "Boulevard Montmartre Eremitage"
+https://en.wikipedia.org/wiki/Camille_Pissarro
+
+Jean Béraud, "Boulevard des Capucines"
+https://commons.wikimedia.org/wiki/File:Jean_B%C3%A9raud_Boulevard_des_capucines.jpg
+
+Georges Seurat, "A Sunday Afternoon on the Island of La Grande Jatte"
+https://en.wikipedia.org/wiki/Impressionism#/media/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png
