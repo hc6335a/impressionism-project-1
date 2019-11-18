@@ -108,10 +108,8 @@ h2 {
 	margin-right: 15%;
 	margin-bottom: 5em;
 	text-align: center;
-	width: 60%;
 	padding: 2em;
-	display: grid;
-	grid-template: 1fr;
+
 	background-color: rgba(251, 251, 251 0.6);
 	font-family: 'Raleway';
 }
@@ -169,6 +167,8 @@ h2 {
 	color: #22354B;
 	grid-column: 1 / 2;
 	grid-row:  1 / 2;
+	margin-top: 35px;
+	margin-left: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 }
 
@@ -181,6 +181,8 @@ h2 {
 	grid-column: 2 / 3;
 	grid-row: 1 / 2;
 	padding: 2em;
+	margin-top: 35px;
+	margin-right: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 }
 
@@ -188,6 +190,8 @@ h2 {
 	grid-column: 1 / 2;
 	grid-row: 2 / 3;
 	padding: 2em;
+	margin-bottom: 1em;
+	margin-left: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 }
 
@@ -195,6 +199,8 @@ h2 {
 	grid-column: 2 / 3;
 	grid-row: 2 / 3;
 	padding: 2em;
+	margin-bottom: 1em;
+	margin-right: 35px;
 	background-color: rgba(224, 212, 185, 0.8);
 }
 
@@ -218,10 +224,9 @@ margin-right: 35px;
 
 .degas-img-1 {
 	grid-column: 1 / 2;
-	grid-row: 3 / 5;
+	grid-row: 3 / 4;
 	padding: 2em;
 	background-color: rgba(185, 197, 224, 0.7);
-	margin-bottom: 1em;
 	margin-top: 35px;
 	margin-left: 2em;
 }
@@ -235,6 +240,15 @@ margin-right: 35px;
 	margin-right: 2em;
 }
 
+.degas-img-3 {
+	grid-column: 1 / 2;
+	grid-row: 4 / 5;
+	padding: 2em;
+	background-color: rgba(185, 197, 224, 0.7);
+	margin-bottom: 1em;
+	margin-left: 2em;
+}
+
 .sisley {
 	padding: 2em;
 	line-height: 2em;
@@ -242,7 +256,8 @@ margin-right: 35px;
 	color: #22354B;
 	grid-column: 1 / 2;
 	grid-row:  5 / 6;
-	margin: 1em;
+	margin-top: 35px;
+	margin-left: 35px;
 	background-color: #E0D4B9;
 }
 
@@ -253,14 +268,29 @@ margin-right: 35px;
 
 .sisley-img-1 {
 	grid-column: 2 / 3;
-	grid-row: 5 / 7;
+	grid-row: 5 / 6;
 	padding: 2em;
+	margin-top: 35px;
+	margin-right: 35px;
+	background-color: #E0D4B9;
 }
 
 .sisley-img-2 {
 	grid-column: 1 / 2;
 	grid-row: 6 / 7;
 	padding: 2em;
+	margin-bottom: 35px;
+	margin-left: 35px;
+	background-color: #E0D4B9;
+}
+
+.sisley-img-3 {
+	grid-column: 2 / 3;
+	grid-row: 6 / 7;
+	padding: 2em;
+	margin-bottom: 35px;
+	margin-right: 35px;
+	background-color: #E0D4B9;
 }
 
 .cezanne {
@@ -491,6 +521,12 @@ margin-right: 35px;
 	padding: 2em;
 }
 
+.academie-img-1 {
+	grid-column: 2 / 3;
+	grid-row: 3 / 4;
+	padding: 2em;
+}
+
 .academie2 {
 	grid-column: 2 / 3;
 	grid-row: 4 / 5;
@@ -506,6 +542,12 @@ margin-right: 35px;
 
 .petition {
 	grid-column: 1 / 2;
+	grid-row: 5 / 6;
+	padding: 2em;
+}
+
+.first-exhibition-img {
+	grid-column: 2 / 3;
 	grid-row: 5 / 6;
 	padding: 2em;
 }
