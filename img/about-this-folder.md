@@ -23,3 +23,45 @@ https://www.vangoghroute.com/france/paris/impressionist-exhibition/
 Background image:
 Pierre-Auguste Renoir, "Claude Monet Painting in His Garden at Argenteuil"
 https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+
+all Camille Pissaro imgs:
+https://en.wikipedia.org/wiki/Camille_Pissarro
+
+all Edgar Degas imgs:
+https://en.wikipedia.org/wiki/Edgar_Degas
+
+all Alfred Sisley imgs:
+https://en.wikipedia.org/wiki/Alfred_Sisley
+
+all Paul Cezanne imgs:
+https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne
+
+all Claude Monet imgs:
+https://en.wikipedia.org/wiki/Claude_Monet
+
+all Armand Guillaumin imgs:
+https://en.wikipedia.org/wiki/Armand_Guillaumin
+
+all Berthe Morisot imgs:
+https://en.wikipedia.org/wiki/Berthe_Morisot
+
+all Pierre-Auguste Renoir imgs:
+https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+
+all Mary Cassat imgs:
+https://en.wikipedia.org/wiki/Mary_Cassatt
+
+all Gustave Caillebotte imgs:
+https://en.wikipedia.org/wiki/Gustave_Caillebotte
+
+Techniques background img:
+Alfred Sisley, "Meadow"
+https://en.wikipedia.org/wiki/Alfred_Sisley
+
+"Lydia Leaning on Her Arms (in a theatre box)"
+Mary Cassat
+https://en.wikipedia.org/wiki/Mary_Cassatt
+
+"Monet Painting In His Garden At Argenteuil"
+Pierre Auguste Renoir
+https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
